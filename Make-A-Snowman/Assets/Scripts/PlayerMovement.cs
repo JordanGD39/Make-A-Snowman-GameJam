@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float jumpForce = 500;
     [SerializeField] private float groundedOffset = 0.5f;
     [SerializeField] private float groundedRadius = 2;
+    [SerializeField] private float deathY = -10;
     [SerializeField] private Transform sprite;
     [SerializeField] private LayerMask layerMask;
     private bool jumpPressed = false;
@@ -44,6 +46,11 @@ public class PlayerMovement : MonoBehaviour
 
         grounded = Physics2D.OverlapCircle(transform.position + Vector3.down * groundedOffset, groundedRadius, layerMask);
         anim.SetBool("Grounded", grounded);
+
+        if (transform.position.y < deathY)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+        }
     }
 
     private void FixedUpdate()

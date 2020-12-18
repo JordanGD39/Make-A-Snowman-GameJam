@@ -3976,6 +3976,7 @@ MonoBehaviour:
   jumpForce: 400
   groundedOffset: 0.5
   groundedRadius: 0.36
+  deathY: -15
   sprite: {fileID: 1027917184}
   layerMask:
     serializedVersion: 2
