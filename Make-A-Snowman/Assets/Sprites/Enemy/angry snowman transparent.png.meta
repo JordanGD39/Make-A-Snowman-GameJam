@@ -1,0 +1,1258 @@
+fileFormatVersion: 2
+guid: 778f8c5a3a225d94cb1dcf1f507cfe4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8095109156877584843
+    second: angry snowman transparent_0
+  - first:
+      213: 1873713937948133554
+    second: angry snowman transparent_1
+  - first:
+      213: 5871595037273107442
+    second: angry snowman transparent_2
+  - first:
+      213: -5277938167625230878
+    second: angry snowman transparent_3
+  - first:
+      213: 6823823259869685512
+    second: angry snowman transparent_4
+  - first:
+      213: 8399416738690937231
+    second: angry snowman transparent_5
+  - first:
+      213: 4145775800067157533
+    second: angry snowman transparent_6
+  - first:
+      213: 2809486421768957056
+    second: angry snowman transparent_7
+  - first:
+      213: 6465603688461489830
+    second: angry snowman transparent_8
+  - first:
+      213: -95856376100597642
+    second: angry snowman transparent_9
+  - first:
+      213: -4102340781136568014
+    second: angry snowman transparent_10
+  - first:
+      213: -8323458511542099989
+    second: angry snowman transparent_11
+  - first:
+      213: 6621243247763899149
+    second: angry snowman transparent_12
+  - first:
+      213: 5349682078362112200
+    second: angry snowman transparent_13
+  - first:
+      213: -5035443219435636070
+    second: angry snowman transparent_14
+  - first:
+      213: -6589301075515876437
+    second: angry snowman transparent_15
+  - first:
+      213: -6625012945244606942
+    second: angry snowman transparent_16
+  - first:
+      213: 7077121341163261420
+    second: angry snowman transparent_17
+  - first:
+      213: 8365275032069466109
+    second: angry snowman transparent_18
+  - first:
+      213: -64139315949513278
+    second: angry snowman transparent_19
+  - first:
+      213: 2159176545961227350
+    second: angry snowman transparent_20
+  - first:
+      213: 2330140200041477753
+    second: angry snowman transparent_21
+  - first:
+      213: 8460637770457278637
+    second: angry snowman transparent_22
+  - first:
+      213: 7587129365254768488
+    second: angry snowman transparent_23
+  - first:
+      213: 4827222541552741611
+    second: angry snowman transparent_24
+  - first:
+      213: 6040985865558276308
+    second: angry snowman transparent_25
+  - first:
+      213: 263106206367068269
+    second: angry snowman transparent_26
+  - first:
+      213: -4197621350468334363
+    second: angry snowman transparent_27
+  - first:
+      213: 5888382018247718976
+    second: angry snowman transparent_28
+  - first:
+      213: 4377353150215241437
+    second: angry snowman transparent_29
+  - first:
+      213: -2165856952549568784
+    second: angry snowman transparent_30
+  - first:
+      213: -5301296575962049043
+    second: angry snowman transparent_31
+  - first:
+      213: -7012135882473478442
+    second: angry snowman transparent_32
+  - first:
+      213: 740489927843973292
+    second: angry snowman transparent_33
+  - first:
+      213: 4002945558736992840
+    second: angry snowman transparent_34
+  - first:
+      213: 2131021466237437091
+    second: angry snowman transparent_35
+  - first:
+      213: -3868826241530376925
+    second: angry snowman transparent_36
+  - first:
+      213: -411632134907699019
+    second: angry snowman transparent_37
+  - first:
+      213: 3420893692781315133
+    second: angry snowman transparent_38
+  - first:
+      213: -3813274176633331485
+    second: angry snowman transparent_39
+  - first:
+      213: 5810297934694978251
+    second: angry snowman transparent_40
+  - first:
+      213: -4806208644605866315
+    second: angry snowman transparent_41
+  - first:
+      213: -461359003863457114
+    second: angry snowman transparent_42
+  - first:
+      213: -4061275451591301610
+    second: angry snowman transparent_43
+  - first:
+      213: 946679724169053949
+    second: angry snowman transparent_44
+  - first:
+      213: 6350337164002656276
+    second: angry snowman transparent_45
+  - first:
+      213: 6710614238870950690
+    second: angry snowman transparent_46
+  - first:
+      213: -8829354630781794464
+    second: angry snowman transparent_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: angry snowman transparent_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 550
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc943b173ea975070800000000000000
+      internalID: 8095109156877584843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 547
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c81236e4c00a10800000000000000
+      internalID: 1873713937948133554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 547
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb2c9dc3981c7150800000000000000
+      internalID: 5871595037273107442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 548
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5d834433ff0c6b0800000000000000
+      internalID: -5277938167625230878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_4
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 549
+        width: 47
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807a496c91713be50800000000000000
+      internalID: 6823823259869685512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 550
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81b4269509b09470800000000000000
+      internalID: 8399416738690937231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 551
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ee969ff11c88930800000000000000
+      internalID: 4145775800067157533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 458
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c62dae30d4df620800000000000000
+      internalID: 2809486421768957056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 459
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6d3356c407ab950800000000000000
+      internalID: 6465603688461489830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 460
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670511142237baef0800000000000000
+      internalID: -95856376100597642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 458
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a1c07bce8117c0800000000000000
+      internalID: -4102340781136568014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 458
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befd4d455922d7c80800000000000000
+      internalID: -8323458511542099989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 460
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03cb6a27a163eb50800000000000000
+      internalID: 6621243247763899149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 458
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c01c06a183ed3a40800000000000000
+      internalID: 5349682078362112200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_14
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 458
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ab3e222138e1ab0800000000000000
+      internalID: -5035443219435636070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 456
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd6cb55991e84a0800000000000000
+      internalID: -6589301075515876437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 363
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ea45eb3d93f04a0800000000000000
+      internalID: -6625012945244606942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 365
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced4f541d5cf63260800000000000000
+      internalID: 7077121341163261420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_18
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 362
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7e1fe025d671470800000000000000
+      internalID: 8365275032069466109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 363
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c551b8c1a12c1ff0800000000000000
+      internalID: -64139315949513278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_20
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 363
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654bf55f0afe6fd10800000000000000
+      internalID: 2159176545961227350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_21
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 363
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97674549a22565020800000000000000
+      internalID: 2330140200041477753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 364
+        width: 55
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8eb51d9393a6570800000000000000
+      internalID: 8460637770457278637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 56
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86702f895f5ea4960800000000000000
+      internalID: 7587129365254768488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 259
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec6209635dbdf240800000000000000
+      internalID: 4827222541552741611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_25
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 260
+        width: 56
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8b1c163a4e5d350800000000000000
+      internalID: 6040985865558276308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_26
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 259
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60b5b063bdb6a300800000000000000
+      internalID: 263106206367068269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_27
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 259
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec4db72f9d0fb5c0800000000000000
+      internalID: -4197621350468334363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_28
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 260
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f3736f3cb7b150800000000000000
+      internalID: 5888382018247718976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_29
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 260
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde34077f7b7fbc30800000000000000
+      internalID: 4377353150215241437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_30
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe09fca39451f1e0800000000000000
+      internalID: -2165856952549568784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_31
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 260
+        width: 45
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de599c40ad20e66b0800000000000000
+      internalID: -5301296575962049043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_32
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 281
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6e5681193efae90800000000000000
+      internalID: -7012135882473478442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca805e48aafb64a00800000000000000
+      internalID: 740489927843973292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 166
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84afeb3f6c15d8730800000000000000
+      internalID: 4002945558736992840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_35
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 165
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a480df9bb8e29d10800000000000000
+      internalID: 2131021466237437091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d4fdff70b2f4ac0800000000000000
+      internalID: -3868826241530376925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 68
+        width: 57
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0e0b411c6994af0800000000000000
+      internalID: -411632134907699019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 70
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ca9c50b4797f20800000000000000
+      internalID: 3420893692781315133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 69
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a9960757841bc0800000000000000
+      internalID: -3813274176633331485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 69
+        width: 73
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21ea4ff2352a050800000000000000
+      internalID: 5810297934694978251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 63
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be0bddb3baec4db0800000000000000
+      internalID: -4806208644605866315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_42
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 69
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a26acc2e6ce899f0800000000000000
+      internalID: -461359003863457114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_43
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 68
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616e2ec8e7373a7c0800000000000000
+      internalID: -4061275451591301610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df649238138432d00800000000000000
+      internalID: 946679724169053949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 10
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4100750510ee02850800000000000000
+      internalID: 6350337164002656276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 16
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223d49c8814e02d50800000000000000
+      internalID: 6710614238870950690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: angry snowman transparent_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 73
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670d444eb4d77580800000000000000
+      internalID: -8829354630781794464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
