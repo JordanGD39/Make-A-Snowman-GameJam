@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: b7b9b494b1bee4f46a76904ee2f9b799
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1042297356374730784
+    second: eskimo-boy-game-sprites_7814-535_0
+  - first:
+      213: 6509151552716595752
+    second: eskimo-boy-game-sprites_7814-535_1
+  - first:
+      213: 5726308052158920651
+    second: eskimo-boy-game-sprites_7814-535_2
+  - first:
+      213: 928349054567760605
+    second: eskimo-boy-game-sprites_7814-535_3
+  - first:
+      213: 3746277792834085201
+    second: eskimo-boy-game-sprites_7814-535_4
+  - first:
+      213: 7480580050464714019
+    second: eskimo-boy-game-sprites_7814-535_5
+  - first:
+      213: -2364385434008125560
+    second: eskimo-boy-game-sprites_7814-535_6
+  - first:
+      213: -1941877876544130402
+    second: eskimo-boy-game-sprites_7814-535_7
+  - first:
+      213: -4609161219547907313
+    second: eskimo-boy-game-sprites_7814-535_8
+  - first:
+      213: -3975251177712661458
+    second: eskimo-boy-game-sprites_7814-535_9
+  - first:
+      213: 3296154085814317
+    second: eskimo-boy-game-sprites_7814-535_10
+  - first:
+      213: 1550691827492629502
+    second: eskimo-boy-game-sprites_7814-535_11
+  - first:
+      213: -3048465894133145587
+    second: eskimo-boy-game-sprites_7814-535_12
+  - first:
+      213: 1819072211008619215
+    second: eskimo-boy-game-sprites_7814-535_13
+  - first:
+      213: -7305225065178704455
+    second: eskimo-boy-game-sprites_7814-535_14
+  - first:
+      213: 5769002452624663002
+    second: eskimo-boy-game-sprites_7814-535_15
+  - first:
+      213: -2178033582876406663
+    second: eskimo-boy-game-sprites_7814-535_16
+  - first:
+      213: 3141771885405746314
+    second: eskimo-boy-game-sprites_7814-535_17
+  - first:
+      213: -6230221184832971588
+    second: eskimo-boy-game-sprites_7814-535_18
+  - first:
+      213: 7651742642958877214
+    second: eskimo-boy-game-sprites_7814-535_19
+  - first:
+      213: -4996152530131960357
+    second: eskimo-boy-game-sprites_7814-535_20
+  - first:
+      213: 5667197575477823474
+    second: eskimo-boy-game-sprites_7814-535_21
+  - first:
+      213: -9067840526913579900
+    second: eskimo-boy-game-sprites_7814-535_22
+  - first:
+      213: -7127824504389165238
+    second: eskimo-boy-game-sprites_7814-535_23
+  - first:
+      213: -7457115077407984287
+    second: eskimo-boy-game-sprites_7814-535_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 432
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e794f2a3140981f0800000000000000
+      internalID: -1042297356374730784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 432
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822ead8a9d6255a50800000000000000
+      internalID: 6509151552716595752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 432
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7346b85dee77f40800000000000000
+      internalID: 5726308052158920651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 432
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2c419eb8822ec00800000000000000
+      internalID: 928349054567760605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_4
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 432
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1516fcfcdc37df330800000000000000
+      internalID: 3746277792834085201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_5
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 432
+        width: 73
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32da2dd0ceb50d760800000000000000
+      internalID: 7480580050464714019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 307
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f76dd89f3003fd0800000000000000
+      internalID: -2364385434008125560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_7
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 307
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92b56b1c501d05e0800000000000000
+      internalID: -1941877876544130402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 307
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b375c8a48f800c0800000000000000
+      internalID: -4609161219547907313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 307
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccb7b9d1215d8c0800000000000000
+      internalID: -3975251177712661458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 307
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f86da5d5bb0000800000000000000
+      internalID: 3296154085814317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 307
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbaccd400a258510800000000000000
+      internalID: 1550691827492629502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 161
+        width: 62
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00ec46bb6ca1b5d0800000000000000
+      internalID: -3048465894133145587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_13
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 172
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc204fdb984ae3910800000000000000
+      internalID: 1819072211008619215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 187
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b55eb90280ae9a90800000000000000
+      internalID: -7305225065178704455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 188
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1ec094a2d9f0050800000000000000
+      internalID: 5769002452624663002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 172
+        width: 70
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cc7cffef116c1e0800000000000000
+      internalID: -2178033582876406663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_17
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 161
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a843bea42e0d99b20800000000000000
+      internalID: 3141771885405746314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcdaed67dec989a0800000000000000
+      internalID: -6230221184832971588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12c542a463703a60800000000000000
+      internalID: 7651742642958877214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 37
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb0dd9eb91aaab0800000000000000
+      internalID: -4996152530131960357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_21
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 32
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f78f463b2ee5ae40800000000000000
+      internalID: 5667197575477823474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_22
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 32
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484dc61951f882280800000000000000
+      internalID: -9067840526913579900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_23
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 40
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1f8ac061e41d90800000000000000
+      internalID: -7127824504389165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eskimo-boy-game-sprites_7814-535_24
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 40
+        width: 55
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16533e9b851038890800000000000000
+      internalID: -7457115077407984287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
