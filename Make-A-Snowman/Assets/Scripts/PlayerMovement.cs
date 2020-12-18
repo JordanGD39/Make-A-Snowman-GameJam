@@ -4,22 +4,30 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    [SerializeField] private bool grounded = false;
     private Rigidbody2D rb;
+    private Animator anim;
     private float horiInput;
     [SerializeField] private float speed = 5;
+    [SerializeField] private float jumpForce = 500;
+    [SerializeField] private float groundedOffset = 0.5f;
+    [SerializeField] private float groundedRadius = 2;
     [SerializeField] private Transform sprite;
+    [SerializeField] private LayerMask layerMask;
+    private bool jumpPressed = false;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponentInChildren<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
         horiInput = Input.GetAxis("Horizontal");
-
+        anim.SetFloat("Speed", Mathf.Abs(horiInput));
         
         if (horiInput != 0)
         {
@@ -27,11 +35,35 @@ public class PlayerMovement : MonoBehaviour
             scale.x = horiInput > 0 ? Mathf.Abs(scale.x) : -Mathf.Abs(scale.x);
 
             sprite.transform.localScale = scale;
-        }        
+        }
+
+        if (Input.GetButtonDown("Jump") && grounded)
+        {
+            jumpPressed = true;
+        }
+
+        grounded = Physics2D.OverlapCircle(transform.position + Vector3.down * groundedOffset, groundedRadius, layerMask);
+        anim.SetBool("Grounded", grounded);
     }
 
     private void FixedUpdate()
     {
-        rb.velocity = new Vector2(horiInput * speed, rb.velocity.y);
+        if (jumpPressed)
+        {
+            rb.AddForce(transform.up * jumpForce);
+            jumpPressed = false;
+        }
+
+        if (Mathf.Abs(horiInput) < 0.3f)
+        {
+            horiInput = 0;
+        }
+        
+        rb.velocity = new Vector2(horiInput * speed, rb.velocity.y);       
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.DrawWireSphere(transform.position + Vector3.down * groundedOffset, groundedRadius);
     }
 }
