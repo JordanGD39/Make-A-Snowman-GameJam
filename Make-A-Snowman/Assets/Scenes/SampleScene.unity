@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 198806745}
   - component: {fileID: 198806746}
   - component: {fileID: 198806747}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3775,7 +3775,7 @@ GameObject:
   - component: {fileID: 273004012}
   - component: {fileID: 273004014}
   - component: {fileID: 273004013}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: SnowBall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3851,7 +3851,7 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
@@ -3936,7 +3936,7 @@ GameObject:
   - component: {fileID: 959377793}
   - component: {fileID: 959377792}
   - component: {fileID: 959377794}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4064,7 +4064,7 @@ GameObject:
   - component: {fileID: 1027917185}
   - component: {fileID: 1027917186}
   - component: {fileID: 1027917187}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: Sprite
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4353,7 +4353,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1424845679}
   - component: {fileID: 1424845680}
-  m_Layer: 8
+  m_Layer: 10
   m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
