@@ -106,7 +106,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &1822734980286719519
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -142,10 +142,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1822734980286719518}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 77d88c2e73639ed468d77d76e81da3ac, type: 3}
+  m_Script: {fileID: 11500000, guid: c743042a0fe1dc94eae2a9c6cdb8492e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   throwTimer: 5
-  throwSpeed: 3
-  throwDistance: -5
-  fireball: {fileID: 0}
+  throwDistance: 0
+  fireball: {fileID: 1196446325167944819, guid: d1db3af4f29aeba40b1f2b0691e4d990,
+    type: 3}

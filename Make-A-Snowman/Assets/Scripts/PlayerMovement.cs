@@ -14,7 +14,9 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float groundedOffset = 0.5f;
     [SerializeField] private float groundedRadius = 2;
     [SerializeField] private float deathY = -10;
+    [SerializeField] private float winX = 20;
     [SerializeField] private Transform sprite;
+    [SerializeField] private Transform snowBallSprite;
     [SerializeField] private LayerMask layerMask;
     private bool jumpPressed = false;
 
@@ -49,7 +51,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (transform.position.y < deathY)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            Die();   
+        }
+
+        if (transform.position.x > winX && snowBallSprite.localScale.x >= 0.12f)
+        {
+            Application.Quit();
         }
     }
 
@@ -67,6 +74,11 @@ public class PlayerMovement : MonoBehaviour
         }
         
         rb.velocity = new Vector2(horiInput * speed, rb.velocity.y);       
+    }
+
+    public void Die()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void OnDrawGizmos()

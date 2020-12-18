@@ -14,6 +14,7 @@ public class Bullet : MonoBehaviour
         player = GameObject.Find("Player");
         playerPos = player.transform.position;
         transform.right = playerPos - transform.position;
+        Destroy(gameObject, 5);
     }
 
     // Update is called once per frame
@@ -26,7 +27,14 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log("hit");
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            collision.gameObject.GetComponentInParent<PlayerMovement>().Die();
+        }
+        else if (collision.gameObject.CompareTag("SnowBall"))
+        {
+            collision.transform.localScale -= new Vector3(0.01f, 0.01f);
+        }
         Destroy(gameObject);
     }
 }

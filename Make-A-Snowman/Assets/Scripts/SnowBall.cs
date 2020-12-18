@@ -5,6 +5,7 @@ using UnityEngine;
 public class SnowBall : MonoBehaviour
 {
     private Rigidbody2D rb;
+    private PlayerMovement mov;
     private bool grounded = false;
     [SerializeField] private Transform sprite;
     [SerializeField] private float growSpeed;
@@ -19,6 +20,7 @@ public class SnowBall : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        mov = FindObjectOfType<PlayerMovement>();
     }
 
     // Update is called once per frame
@@ -35,7 +37,12 @@ public class SnowBall : MonoBehaviour
             sprite.transform.localScale += scale;
 
             rb.mass += speed;
-        }        
+        }
+
+        if (sprite.transform.localScale.x <= 0)
+        {
+            mov.Die();
+        }
     }
 
     private void OnDrawGizmos()
