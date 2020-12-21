@@ -10,6 +10,8 @@ public class PlayerMovement : MonoBehaviour
     private Animator anim;
     private float horiInput;
     [SerializeField] private float speed = 5;
+    [SerializeField] private float walkSpeed = 5;
+    [SerializeField] private float runSpeed = 8;
     [SerializeField] private float jumpForce = 500;
     [SerializeField] private float groundedOffset = 0.5f;
     [SerializeField] private float groundedRadius = 2;
@@ -32,6 +34,19 @@ public class PlayerMovement : MonoBehaviour
     {
         horiInput = Input.GetAxis("Horizontal");
         anim.SetFloat("Speed", Mathf.Abs(horiInput));
+
+        if (Input.GetButton("Run"))
+        {
+            speed = runSpeed;
+            anim.SetBool("Running", true);
+        }
+        else
+        {
+            speed = walkSpeed;
+            anim.SetBool("Running", false);
+        }
+
+        
         
         if (horiInput != 0)
         {
